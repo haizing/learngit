@@ -8,7 +8,13 @@ Creating a new branch AND simple.
 
 new
 
+
 fei daima
 today i am very happy !
 
 hello --come from bug101
+
+today i am very happy !
+
+hello --come from dev branch
+
