@@ -10,3 +10,5 @@ new
 
 fei daima
 today i am very happy !
+
+hello --come from bug101
